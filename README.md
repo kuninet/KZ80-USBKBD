@@ -6,6 +6,10 @@
 * USBキーボードをRaspberry PI PICOにつなぎ、MSX互換のPPI(8255)へつなげるボードです。
   * HRA!氏のusb_keyboard_bridge_for_msxを使わせていただいています。
 
+## 回路図
+
+* [回路図(PDF)](KiCad/KZ80-USBKBD.pdf)
+
 ## ライセンスについて
 * 私が作成した回路についてはMITライセンスで公開します。
 
