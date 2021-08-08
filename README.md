@@ -1,5 +1,7 @@
 # KZ80マイコン用 MSX USBキーボードアダプタ # 
 
+## ★本基板は試作して確認中です。
+
 ## 概要 ##
 * USBキーボードをRaspberry PI PICOにつなぎ、MSX互換のPPI(8255)へつなげるボードです。
   * HRA!氏のusb_keyboard_bridge_for_msxを使わせていただいています。
