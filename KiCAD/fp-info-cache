@@ -1,4 +1,11 @@
-18369506946169171
+18379277295127382
+AJ-1780
+AJ-1780
+AJ-1780
+Connector
+0
+5
+5
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -73380,6 +73387,41 @@ Shielding Cabinet
 0
 48
 1
+RPi_Pico
+CUI_SJ-3523-audio-jack
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+3
+3
+RPi_Pico
+DSUB-15-L77HDE15SD1CH4F
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+17
+16
+RPi_Pico
+MBR120_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+RPi_Pico
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+RPi_Pico
+USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified
+Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
+USB USB_B USB_micro USB_OTG
+0
+17
+6
 Relay_SMD
 Relay_DPDT_AXICOM_IMSeries_JLeg
 http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf
