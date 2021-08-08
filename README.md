@@ -8,7 +8,7 @@
 
 ## 回路図
 
-* [回路図(PDF)](KiCad/KZ80-USBKBD.pdf)
+* [回路図(PDF)](https://github.com/kuninet/KZ80-USBKBD/blob/main/KiCAD/KZ80-USBKBD.pdf)
 
 ## ライセンスについて
 * 私が作成した回路についてはMITライセンスで公開します。
