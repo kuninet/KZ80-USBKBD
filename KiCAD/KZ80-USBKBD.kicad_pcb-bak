@@ -2671,7 +2671,7 @@
   (gr_text 74HC00 (at 165 86) (layer F.SilkS) (tstamp 610FF4B5)
     (effects (font (size 1.5 1.5) (thickness 0.2)))
   )
-  (gr_text "Raspberry Pi Pico" (at 165.2 106.2) (layer F.SilkS)
+  (gr_text "Raspberry Pi Pico" (at 165.2 106.5) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.2)))
   )
   (gr_line (start 137.4 105.2) (end 127.2 105.2) (layer F.SilkS) (width 0.12))
