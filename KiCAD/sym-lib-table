@@ -3,4 +3,5 @@
   (lib (name AJ-1780)(type Legacy)(uri C:/Users/kunin/git/KZ80-PS2KBD/KiCAD/AJ-1780.lib)(options "")(descr ""))
   (lib (name RaspberriPiPico)(type Legacy)(uri ${KIPRJMOD}/RaspberriPiPico.lib)(options "")(descr ""))
   (lib (name RPi_Pico)(type Legacy)(uri ${KIPRJMOD}/VGA/RPi_Pico.lib)(options "")(descr ""))
+  (lib (name KZ80-USBKBD-rescue)(type Legacy)(uri ${KIPRJMOD}/KZ80-USBKBD-rescue.lib)(options "")(descr ""))
 )
