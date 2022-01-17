@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 2169)
+    (start_pass_no 482)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -59,6 +59,12 @@
     BOLD "Via[0-1]_800:400_um-BOLD"
   )
   (class default
+    "unconnected-(J1-Pad40)" "unconnected-(J1-Pad39)" "unconnected-(J1-Pad38)" "unconnected-(J1-Pad37)" "unconnected-(J1-Pad36)" "unconnected-(J1-Pad35)" "unconnected-(J1-Pad34)" "unconnected-(J1-Pad33)"
+    "unconnected-(J1-Pad27)" "unconnected-(J1-Pad24)" "unconnected-(J1-Pad23)" "unconnected-(J1-Pad22)" "unconnected-(J1-Pad20)" "unconnected-(J1-Pad18)" "unconnected-(J1-Pad8)" "unconnected-(J1-Pad7)"
+    "unconnected-(J1-Pad6)" "unconnected-(J1-Pad5)" "unconnected-(J3-Pad4)" "unconnected-(J3-Pad3)" "unconnected-(J3-Pad2)" "unconnected-(J4-Pad6)" "unconnected-(J4-Pad3)" "unconnected-(J4-Pad2)"
+    "unconnected-(U1-Pad43)" "unconnected-(U1-Pad42)" "unconnected-(U1-Pad41)" "unconnected-(U1-Pad29)" "unconnected-(U1-Pad30)" "unconnected-(U1-Pad35)" "unconnected-(U1-Pad36)" "unconnected-(U1-Pad37)"
+    "unconnected-(U1-Pad39)" "unconnected-(U1-Pad17)" "unconnected-(U1-Pad16)" "unconnected-(U1-Pad15)" "unconnected-(U1-Pad14)" "unconnected-(U1-Pad12)" "unconnected-(U1-Pad11)" "unconnected-(U1-Pad10)"
+    "unconnected-(U1-Pad9)" "unconnected-(U1-Pad8)"
     (clearance_class default)
     (via_rule default)
     (rule
@@ -69,20 +75,15 @@
     )
   )
   (class "kicad_default"
-    /PC5 "Net-(C2-Pad1)" "Net-(C3-Pad1)" "Net-(D1-Pad2)" "Net-(D1-Pad1)" "Net-(D2-Pad2)" "Net-(D2-Pad1)" "Net-(J1-Pad40)"
-    "Net-(J1-Pad39)" "Net-(J1-Pad38)" "Net-(J1-Pad37)" "Net-(J1-Pad36)" "Net-(J1-Pad35)" "Net-(J1-Pad34)" "Net-(J1-Pad33)" /A7
-    /A6 /A5 /A4 /A3 "Net-(J1-Pad27)" A1 A0 "Net-(J1-Pad24)"
-    "Net-(J1-Pad23)" "Net-(J1-Pad22)" RESET "Net-(J1-Pad20)" ~IOWR "Net-(J1-Pad18)" ~IORD /D7
-    /D6 /D5 /D4 /D3 /D2 D1 D0 "Net-(J1-Pad8)"
-    "Net-(J1-Pad7)" "Net-(J1-Pad6)" "Net-(J1-Pad5)" /PC7 /PC6 /PC4 /PA7 /PA6
-    /PA5 /PA4 /PA3 /PA2 /PA1 /PA0 "Net-(J3-Pad5)" "Net-(J3-Pad4)"
-    "Net-(J3-Pad3)" "Net-(J3-Pad2)" "Net-(J4-Pad6)" TxD RxD "Net-(J4-Pad3)" "Net-(J4-Pad2)" "PPI-CE"
+    /PC5 "Net-(C2-Pad1)" "Net-(C3-Pad1)" "Net-(D1-Pad2)" "Net-(D1-Pad1)" "Net-(D2-Pad2)" "Net-(D2-Pad1)" /A7
+    /A6 /A5 /A4 /A3 A1 A0 RESET ~{IOWR}
+    ~{IORD} /D7 /D6 /D5 /D4 /D3 /D2 D1
+    D0 /PC7 /PC6 /PC4 /PA7 /PA6 /PA5 /PA4
+    /PA3 /PA2 /PA1 /PA0 "Net-(J3-Pad5)" TxD RxD "PPI-CE"
     "Net-(J5-Pad7)" "Net-(J5-Pad5)" "Net-(J5-Pad3)" "Net-(J5-Pad1)" "Net-(J6-Pad2)" "Net-(J6-Pad7)" "Net-(J6-Pad5)" "Net-(J6-Pad3)"
-    "Net-(J6-Pad1)" "Net-(JP1-Pad2)" "Net-(JP1-Pad1)" "Net-(SW1-Pad1)" "Net-(U1-Pad43)" "Net-(U1-Pad42)" "Net-(U1-Pad41)" /X2
-    /X3 /X4 /X5 /X6 /X7 "Net-(U1-Pad29)" "Net-(U1-Pad30)" "Net-(U1-Pad35)"
-    "Net-(U1-Pad36)" "Net-(U1-Pad37)" "Net-(U1-Pad39)" /X1 /X0 "Net-(U1-Pad17)" "Net-(U1-Pad16)" "Net-(U1-Pad15)"
-    "Net-(U1-Pad14)" "Net-(U1-Pad12)" "Net-(U1-Pad11)" "Net-(U1-Pad10)" "Net-(U1-Pad9)" "Net-(U1-Pad8)" /Y3 /Y2
-    /Y1 /Y0 "Net-(R6-Pad1)" "Net-(R7-Pad1)" "Net-(R8-Pad1)" "Net-(R9-Pad1)"
+    "Net-(J6-Pad1)" "Net-(JP1-Pad2)" "Net-(JP1-Pad1)" "Net-(SW1-Pad1)" /X2 /X3 /X4 /X5
+    /X6 /X7 /X1 /X0 /Y3 /Y2 /Y1 /Y0
+    "Net-(R6-Pad1)" "Net-(R7-Pad1)" "Net-(R8-Pad1)" "Net-(R9-Pad1)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule

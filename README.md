@@ -8,6 +8,11 @@
 
 * [回路図(PDF)](https://github.com/kuninet/KZ80-USBKBD/blob/main/KiCAD/KZ80-USBKBD.pdf)
 
+## 注意
+
+* KiCADデータは [KiCAD](KiCAD)ディレクトリに入ってます。KiCad6を使用しています。KiCad v5以前では開けません。
+* 基板製造データは[KiCAD/PCB](KiCAD/PCB)に入っています。
+
 ## ライセンスについて
 * 私が作成した回路についてはMITライセンスで公開します。
 
