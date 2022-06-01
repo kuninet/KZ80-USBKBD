@@ -1,11 +1,11 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0-0)*
-G04 #@! TF.CreationDate,2022-01-10T15:54:52+09:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4-0)*
+G04 #@! TF.CreationDate,2022-06-01T20:22:46+09:00*
 G04 #@! TF.ProjectId,KZ80-USBKBD,4b5a3830-2d55-4534-924b-42442e6b6963,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.0-0)) date 2022-01-10 15:54:52*
+G04 Created by KiCad (PCBNEW (6.0.4-0)) date 2022-06-01 20:22:46*
 %MOMM*%
 %LPD*%
 G01*
