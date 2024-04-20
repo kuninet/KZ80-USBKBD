@@ -12,6 +12,8 @@
 
 * KiCADデータは [KiCAD](KiCAD)ディレクトリに入ってます。KiCad6を使用しています。KiCad v5以前では開けません。
 * 基板製造データは[KiCAD/PCB](KiCAD/PCB)に入っています。
+* ファームウェアの書き込みにはコツがいりますので、こちらのBLOG記事を参考にしてください。
+  * [KZ80-USBKBD用 RaspberryPi Picoオブジェクトビルド方法](https://kuninet.org/2023/03/30/kz80-usbkbd%e7%94%a8-raspberrypi-pico%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%83%93%e3%83%ab%e3%83%89%e6%96%b9%e6%b3%95/)
 
 ## ライセンスについて
 * 私が作成した回路についてはMITライセンスで公開します。
